@@ -6,7 +6,6 @@ Data is transmitted over UDP. A separate udproxy server can enforce data rate
 limits and/or packet loss or corruption.
 (c) Alan Marchiori 2019
 """
-
 import argparse
 import socket
 import logging
